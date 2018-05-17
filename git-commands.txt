@@ -16,12 +16,10 @@ browser for writing into a file.
 
 7.git add filename.txt : This command will start tracking our file.
 
-8. git add 
-
-9.git commit -m "your msg" : Commit changes to head (but not yet to the 
+8.git commit -m "your msg" : Commit changes to head (but not yet to the 
 remote repository)
 
-10. git status : List the files you've changed and those you still need 
+9. git status : List the files you've changed and those you still need 
 to add or commit.
 
 ____________________
