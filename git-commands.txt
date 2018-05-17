@@ -1,15 +1,37 @@
-hello people
-﻿1. Git : It’s a tool/software
+1. Git : It’s a tool/software
 
 2. GitHub: It’s a web service to store and share git repositories
 
-3. git init - To initialize a git repository
+3. mkdir directoryname : this command will help the user to make a new 
+Directory
 
-4. git status - To check status of repository any time
+4. cd directory name : this command will help the user to get into the 
+directory
 
-5. git add - Tell git to track your changes
+5. git init - To initialize a git repository.This command will tell the 
+Git to work only on that particular environment where git is been init
 
-6. git commit - Tell git to create a checkpoint/version
+6. nano filename.file_extension : This command will open a default text 
+browser for writing into a file.
 
-7. git push - To upload project to the cloud (GitHub)
+7.git add filename.txt : This command will start tracking our file.
+
+8. git add 
+
+9.git commit -m "your msg" : Commit changes to head (but not yet to the 
+remote repository)
+
+10. git status : List the files you've changed and those you still need 
+to add or commit.
+
+____________________
+uploading to Cloud
+____________________
+
+10. git remote add orgin <HTTP url of newly created repo> : If you 
+haven't connected your local repository to a remote server, add the 
+server to be able to push to it.
+
+11. git push origin master : Send changes to the master branch of your 
+remote repository.
 
