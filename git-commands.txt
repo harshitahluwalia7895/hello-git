@@ -1,3 +1,4 @@
+hello people
 ﻿1. Git : It’s a tool/software
 
 2. GitHub: It’s a web service to store and share git repositories
